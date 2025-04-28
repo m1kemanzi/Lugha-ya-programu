@@ -23,31 +23,31 @@ Ururimi is a simple stack-based interpreted programming language inspired by [Ul
 ### Examples of Code Inputs and Outputs
 
 
-python3 interpreter.py helloworld.txt
+`python3 interpreter.py helloworld.txt`
 
 Hello, World!
 
 
-python3 interpreter.py cat.txt
+`python3 interpreter.py cat.txt`
 Hello  
 Hello  
 123    
 123    
 
 
-python3 interpreter.py multiply.txt
+`python3 interpreter.py multiply.txt`
 76
 
 42
 
 
-python3 interpreter.py repeater.txt
+`python3 interpreter.py repeater.txt`
 *5
 
 *****
 
 
-python3 interpreter.py reversestring.txt
+`python3 interpreter.py reversestring.txt`
 Ururimi
 
 
